@@ -5,7 +5,7 @@ export const dialogueData = {
       I've made a couple of games in that language. I also like Golang and Python. Anyway regardless of the language, I just like programming.
       Here is my <a href="https://github.com/jslegenddev" target="_blank">Github</a>!`,
 
-  "cs-degree": `This is my CS degree. I hung it on the wall because I'm proud of it. It was a very theoretical degree but I think it gave me a good foundation.`,
+  "cs-degree": `Este es mi diploma de AIT, que certifica 9 meses y más de 1200 horas de formación en desarrollo de software simulando un entorno real con deadlines, presentaciones y metodología SCRUM.`,
 
   "sofa-table": `That's my sofa. I like to relax here and watch YouTube. 
     I also make game programming tutorials on YouTube. Go sub to <a href="https://youtube.com/@jslegenddev" target="_blank">my channel</a>! (If you like the content)
@@ -27,5 +27,5 @@ export const dialogueData = {
   library: `There are a lot of programming books on my shelves. There is even one in French (I also speak French btw).
     I probably only read one of them. Who else compulsively buys technical books without ever finishing them?`,
 
-  exit: `If you want to exit JSLegendDev's portfolio, just close the tab.`,
+  exit: `¡Gracias por visitar mi portfolio! I use Vim btw.`,
 }
