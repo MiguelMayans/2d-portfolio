@@ -17,7 +17,7 @@ export const dialogueData = {
 
   bed: `This where I sleep. Great ideas comes when I'm lying on my bed. When an idea strikes, I often have to write it down or else I won't be able to sleep because my mental energy is consumed by it.`,
 
-  resume: `Este es mi escritorio y aquí podeis ver mi CV <a href="https://github.com/JSLegendDev/Resume/blob/main/JSLegend%20Resume-1.pdf" target="_blank">CV de Miky</a>
+  resume: `Este es mi escritorio y aquí podeis ver mi CV <a href="" target="_blank">CV de Miky</a>
     Puedes contactarme por<a href="mailto:miguelmayansv@gmail.com" >mail</a>  `,
 
   projects: `Info about this portfolio : It's made with the Kaboom.js library which is a library for making games in JavaScript.
@@ -27,5 +27,5 @@ export const dialogueData = {
   library: `There are a lot of programming books on my shelves. There is even one in French (I also speak French btw).
     I probably only read one of them. Who else compulsively buys technical books without ever finishing them?`,
 
-  exit: `¡Gracias por visitar mi portfolio! I use Vim btw.`,
+  exit: `¡Gracias por visitar mi portfolio! ...I use Vim btw.`,
 }
